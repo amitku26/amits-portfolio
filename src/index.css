@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global styles */
+@layer base {
+  body {
+    @apply bg-dark text-white font-sans;
+  }
+}
+
+/* Reusable components */
+@layer components {
+  .section-title {
+    @apply text-2xl font-bold mb-4 border-b-2 border-gray-light pb-2 inline-block;
+  }
+
+  .link {
+    @apply text-gray-light hover:text-white transition duration-300;
+  }
+}
