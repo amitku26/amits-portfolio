@@ -10,9 +10,7 @@ export default function About() {
             scalable, high-performing digital products.
           </p>
           <p>
-            Over the past year, I’ve built and SaaS platforms with advanced
-            features like role-based authentication, payment integration, and
-            dynamic dashboards and real-time chat applications, social media and
+            Over the past year, I’ve built Mern real-time chat applications, social media and
             video streaming projects.
           </p>
           <p>

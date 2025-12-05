@@ -6,21 +6,19 @@ export default function Experience() {
       <div className="space-y-6">
         <div className="bg-gray p-5 rounded-lg">
           <h3 className="font-semibold">
-            ShaheelByteCrafters-LLC – Frontend Developer Intern
+            TopSquill pvt.limited- Noida(online Internship) – Frontend Developer
+            Intern
           </h3>
-          <p className="text-sm text-gray-light">Aug 2024 – Oct 2024</p>
+          <p className="text-sm text-gray-light">April 2025 – June 2025</p>
           <ul className="list-disc list-inside mt-2 text-sm text-gray-light space-y-1">
+            <li>Built a real-estate price prediction and risk analysis.</li>
             <li>
-              Built a food-ordering UI with React, Material-UI, Redux Toolkit,
-              and Axios.
+              Users can input property details such as location, size, and
+              number of rooms in the Streamlit UI.
             </li>
             <li>
-              Implemented restaurant browsing, cart, authentication, and
-              checkout flow.
-            </li>
-            <li>
-              Optimized performance (lazy loading, memoization) and ensured
-              responsive design.
+              The dashboard also includes data visualizations to help users
+              understand trends and insights.
             </li>
           </ul>
         </div>
