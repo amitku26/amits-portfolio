@@ -4,10 +4,17 @@ const projects = [
   {
     title: "Mern Grocery Application",
     desc: "Developed a MERN-based grocery store application with user authentication, cart and order management, Cloudinary image uploads, and a fully responsive UI using React and Tailwind CSS.",
-    tech: ["React","Node.js","Tailwindcss","MongoDB","Cloudinary","Zustand"],
+    tech: [
+      "React",
+      "Node.js",
+      "Tailwindcss",
+      "MongoDB",
+      "Cloudinary",
+      "Zustand",
+    ],
     admin: "https://rushbasket-grocery-websites-admin.onrender.com/",
     user: "https://rushbasket-grocery-websites-frontend.onrender.com/",
-    repo: "https://github.com/amitku26/Chat-app",
+    repo: "https://github.com/amitku26/RushBasket-Grocery-websites-",
     img: "/images/chatty.png",
   },
 
