@@ -2,7 +2,23 @@ import ProjectCard from "../components/ProjectCard";
 
 const projects = [
   {
-    title: "Mern Grocery Application",
+    title: "Mern Grocery Application (for User)",
+    desc: "Developed a MERN-based grocery store application with user authentication, cart and order management, Cloudinary image uploads, and a fully responsive UI using React and Tailwind CSS.",
+    tech: [
+      "React",
+      "Node.js",
+      "Tailwindcss",
+      "MongoDB",
+      "Cloudinary",
+      "Zustand",
+    ],
+    live: "https://rushbasket-grocery-websites-frontend.onrender.com/",
+    repo: "https://github.com/amitku26/RushBasket-Grocery-websites-",
+    img: "/public/homee.png",
+  },
+
+  {
+    title: "Mern Grocery Application (for admin)",
     desc: "Developed a MERN-based grocery store application with user authentication, cart and order management, Cloudinary image uploads, and a fully responsive UI using React and Tailwind CSS.",
     tech: [
       "React",
@@ -14,7 +30,7 @@ const projects = [
     ],
     live: "https://rushbasket-grocery-websites-admin.onrender.com/",
     repo: "https://github.com/amitku26/RushBasket-Grocery-websites-",
-    img: "/images/chatty.png",
+    img: "/public/products.png",
   },
 
   {
