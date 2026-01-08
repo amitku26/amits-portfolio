@@ -2,10 +2,11 @@ import ProjectCard from "../components/ProjectCard";
 
 const projects = [
   {
-    title: "Chatty",
-    desc: "Real-time chat (1-on-1 & groups) with typing indicators, online status, and secure MongoDB storage.",
-    tech: ["React", "Node.js", "Socket.IO", "MongoDB", "Cloudinary", "Zustand"],
-    live: "https://chat-app-wlqa.onrender.com/",
+    title: "Mern Grocery Application",
+    desc: "Developed a MERN-based grocery store application with user authentication, cart and order management, Cloudinary image uploads, and a fully responsive UI using React and Tailwind CSS.",
+    tech: ["React","Node.js","Tailwindcss","MongoDB","Cloudinary","Zustand"],
+    admin: "https://rushbasket-grocery-websites-admin.onrender.com/",
+    user: "https://rushbasket-grocery-websites-frontend.onrender.com/",
     repo: "https://github.com/amitku26/Chat-app",
     img: "/images/chatty.png",
   },
