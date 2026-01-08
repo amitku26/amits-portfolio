@@ -30,7 +30,7 @@ const projects = [
     ],
     live: "https://rushbasket-grocery-websites-admin.onrender.com/",
     repo: "https://github.com/amitku26/RushBasket-Grocery-websites-",
-    img: "/public/products.png",
+    img: "/frontend/public/products.png",
   },
 
   {
