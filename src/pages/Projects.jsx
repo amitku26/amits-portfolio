@@ -14,7 +14,7 @@ const projects = [
     ],
     live: "https://rushbasket-grocery-websites-frontend.onrender.com/",
     repo: "https://github.com/amitku26/RushBasket-Grocery-websites-",
-    img: "/public/homee.png",
+    img: "/images/homee.png",
   },
 
   {
@@ -30,7 +30,7 @@ const projects = [
     ],
     live: "https://rushbasket-grocery-websites-admin.onrender.com/",
     repo: "https://github.com/amitku26/RushBasket-Grocery-websites-",
-    img: "/frontend/public/products.png",
+    img: "/images/products.png",
   },
 
   {
