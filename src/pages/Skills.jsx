@@ -7,12 +7,16 @@ import {
   SiSocketdotio,
   SiFirebase,
   SiGit,
+  SiPython,
+  SiMysql,
 } from "react-icons/si";
 
 const skillMap = [
   { Icon: SiReact, name: "React.js", color: "#61DAFB" },
   { Icon: SiNodedotjs, name: "Node.js", color: "#3C873A" },
   { Icon: SiMongodb, name: "MongoDB", color: "#47A248" },
+  { Icon: SiMysql, name: "MySQL", color: "#4479A1" },
+  { Icon: SiPython, name: "Python", color: "#3776AB" },
   { Icon: SiTailwindcss, name: "Tailwind CSS", color: "#38BDF8" },
   { Icon: SiRedux, name: "Redux", color: "#764ABC" },
   { Icon: SiSocketdotio, name: "Socket.IO", color: "#010101" },
