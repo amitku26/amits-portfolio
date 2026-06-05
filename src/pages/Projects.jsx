@@ -35,7 +35,7 @@ const projects = [
 
   {
     title: "Foodies Hub",
-    desc: "Foodies Hub is a modern and responsive web application for food enthusiasts.",
+    desc: "Foodies Hub is a modern and responsive web application for food enthusiasts..",
     tech: ["React", "Tailwind-Css", "React-icons", "React-dom"],
     live: "https://foodies-hub-cyan.vercel.app/",
     repo: "https://github.com/amitku26/FoodiesHub",
