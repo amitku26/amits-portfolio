@@ -34,13 +34,14 @@ const projects = [
   },
 
   {
-    title: "Instagram Clone",
-    desc: "Full-stack social platform – post, like, comment, follow, profile editing, Firebase auth & storage.",
-    tech: ["React", "Firebase", "Material-UI"],
-    live: "https://instasclones.netlify.app/",
-    repo: "https://github.com/amitku26/InstaClone",
-    img: "/images/insta.png",
+    title: "Foodies Hub",
+    desc: "Foodies Hub is a modern and responsive web application for food enthusiasts.",
+    tech: ["React", "Tailwind-Css", "React-icons", "React-dom"],
+    live: "https://foodies-hub-cyan.vercel.app/",
+    repo: "https://github.com/amitku26/FoodiesHub",
+    img: "/public/images/foodies-hub.png",
   },
+
   {
     title: "YouTube Clone",
     desc: "Dynamic video browsing, search, and playback using YouTube Data API + TypeScript.",
@@ -48,6 +49,15 @@ const projects = [
     live: "https://youtubeclonees.netlify.app/",
     repo: "https://github.com/amitku26/amityoutube",
     img: "/images/youtube (2).png",
+  },
+
+  {
+    title: "Instagram Clone",
+    desc: "Full-stack social platform – post, like, comment, follow, profile editing, Firebase auth & storage.",
+    tech: ["React", "Firebase", "Material-UI"],
+    live: "https://instasclones.netlify.app/",
+    repo: "https://github.com/amitku26/InstaClone",
+    img: "/images/insta.png",
   },
 ];
 
