@@ -82,7 +82,14 @@ const projects = [
   {
     title: "MERN Grocery Application (User)",
     desc: "Developed a MERN-based grocery store application with user authentication, cart management, order tracking, Cloudinary image uploads, and a responsive UI.",
-    tech: ["React", "Node.js", "Tailwind CSS", "MongoDB", "Cloudinary", "Zustand"],
+    tech: [
+      "React",
+      "Node.js",
+      "Tailwind CSS",
+      "MongoDB",
+      "Cloudinary",
+      "Zustand",
+    ],
     live: "https://rushbasket-grocery-websites-frontend.onrender.com/",
     repo: "https://github.com/amitku26/RushBasket-Grocery-websites-",
     img: "/images/homee.png",
@@ -90,7 +97,14 @@ const projects = [
   {
     title: "MERN Grocery Application (Admin)",
     desc: "Admin dashboard for managing products, orders, users, and inventory in the grocery application.",
-    tech: ["React", "Node.js", "Tailwind CSS", "MongoDB", "Cloudinary", "Zustand"],
+    tech: [
+      "React",
+      "Node.js",
+      "Tailwind CSS",
+      "MongoDB",
+      "Cloudinary",
+      "Zustand",
+    ],
     live: "https://rushbasket-grocery-websites-admin.onrender.com/",
     repo: "https://github.com/amitku26/RushBasket-Grocery-websites-",
     img: "/images/admin.png",
@@ -104,6 +118,14 @@ const projects = [
   //   img: "/images/foodies.png",
   // },
   {
+    title: "Instagram Clone",
+    desc: "Full-stack social platform with posts, likes, comments, follows, profile editing, Firebase authentication, and storage.",
+    tech: ["React", "Firebase", "Material UI"],
+    live: "https://instasclones.netlify.app/",
+    repo: "https://github.com/amitku26/InstaClone",
+    img: "/images/insta.png",
+  },
+  {
     title: "YouTube Clone",
     desc: "Dynamic video browsing, search, and playback using the YouTube Data API and TypeScript.",
     tech: ["React", "Tailwind CSS", "TypeScript", "YouTube API"],
@@ -111,14 +133,6 @@ const projects = [
     repo: "https://github.com/amitku26/amityoutube",
     img: "/images/youtube-2.png",
   },
-  // {
-  //   title: "Instagram Clone",
-  //   desc: "Full-stack social platform with posts, likes, comments, follows, profile editing, Firebase authentication, and storage.",
-  //   tech: ["React", "Firebase", "Material UI"],
-  //   live: "https://instasclones.netlify.app/",
-  //   repo: "https://github.com/amitku26/InstaClone",
-  //   img: "/images/insta.png",
-  // },
 ];
 
 export default function Projects() {
