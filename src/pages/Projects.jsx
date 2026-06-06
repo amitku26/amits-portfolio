@@ -39,7 +39,7 @@ const projects = [
     tech: ["React", "Tailwind-Css", "React-icons", "React-dom"],
     live: "https://foodies-hub-cyan.vercel.app/",
     repo: "https://github.com/amitku26/FoodiesHub",
-    img: "/public/images/foodies-hub.png",
+    img: "/images/foodies-hub.png",
   },
 
   {
