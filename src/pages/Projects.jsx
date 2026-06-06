@@ -95,14 +95,14 @@ const projects = [
     repo: "https://github.com/amitku26/RushBasket-Grocery-websites-",
     img: "/images/admin.png",
   },
-  {
-    title: "Foodies Hub",
-    desc: "Foodies Hub is a modern and responsive web application for food enthusiasts.",
-    tech: ["React", "Tailwind CSS", "React Icons", "React DOM"],
-    live: "https://foodies-hub-cyan.vercel.app/",
-    repo: "https://github.com/amitku26/FoodiesHub",
-    img: "/images/foodies.png",
-  },
+  // {
+  //   title: "Foodies Hub",
+  //   desc: "Foodies Hub is a modern and responsive web application for food enthusiasts.",
+  //   tech: ["React", "Tailwind CSS", "React Icons", "React DOM"],
+  //   live: "https://foodies-hub-cyan.vercel.app/",
+  //   repo: "https://github.com/amitku26/FoodiesHub",
+  //   img: "/images/foodies.png",
+  // },
   {
     title: "YouTube Clone",
     desc: "Dynamic video browsing, search, and playback using the YouTube Data API and TypeScript.",
@@ -111,14 +111,14 @@ const projects = [
     repo: "https://github.com/amitku26/amityoutube",
     img: "/images/youtube-2.png",
   },
-  {
-    title: "Instagram Clone",
-    desc: "Full-stack social platform with posts, likes, comments, follows, profile editing, Firebase authentication, and storage.",
-    tech: ["React", "Firebase", "Material UI"],
-    live: "https://instasclones.netlify.app/",
-    repo: "https://github.com/amitku26/InstaClone",
-    img: "/images/insta.png",
-  },
+  // {
+  //   title: "Instagram Clone",
+  //   desc: "Full-stack social platform with posts, likes, comments, follows, profile editing, Firebase authentication, and storage.",
+  //   tech: ["React", "Firebase", "Material UI"],
+  //   live: "https://instasclones.netlify.app/",
+  //   repo: "https://github.com/amitku26/InstaClone",
+  //   img: "/images/insta.png",
+  // },
 ];
 
 export default function Projects() {

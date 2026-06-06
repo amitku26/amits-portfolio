@@ -5,21 +5,29 @@ export default function About() {
       <div className="items-center">
         <div className="text-gray-light space-y-4">
           <p>
-            I’m a final-year B.Tech (CSE) student with a strong foundation in
-            full-stack web development, passionate about turning ideas into
-            scalable, high-performing digital products.
+            I am a B.Tech graduate in Computer Science and Engineering with a
+            strong foundation in Full-Stack Web Development and a passion for
+            building scalable, user-centric applications. I specialize in
+            developing modern web solutions using React, Node.js, Express.js,
+            MongoDB, and JavaScript.
           </p>
           <p>
-            Over the past year, I’ve built Mern real-time chat applications, social media and
-            video streaming projects.
+            I have hands-on experience building real-world projects, including
+            e-commerce platforms, social media applications, real-time chat
+            systems, video streaming platforms, and responsive portfolio
+            websites. My expertise extends to technologies such as Redux
+            Toolkit, Socket.IO, Firebase, Tailwind CSS, Vite.
           </p>
           <p>
-            My tech stack includes React, Node.js, Express, MongoDB, Socket.IO,
-            Firebase, and modern tools like Redux Toolkit, Vite, and Appwrite. I
-            focus on writing clean, maintainable code and delivering smooth user
-            experiences. When I’m not coding, I enjoy exploring new JavaScript
-            libraries, contributing to open-source projects, and keeping up with
-            the latest trends in web technologies.
+            I am committed to writing clean, maintainable, and efficient code
+            while focusing on performance, scalability, and exceptional user
+            experience. As a continuous learner, I actively explore emerging
+            technologies, contribute to personal and collaborative projects, and
+            stay updated with the latest trends in software development. I am
+            currently seeking opportunities as a Front-End Developer, Full-Stack
+            Developer, or Software Engineer where I can apply my technical
+            skills, solve challenging problems, and contribute to impactful
+            products.
           </p>
         </div>
       </div>
