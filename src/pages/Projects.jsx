@@ -51,14 +51,14 @@ const projects = [
     img: "/images/youtube (2).png",
   },
 
-  {
-    title: "Instagram Clone",
-    desc: "Full-stack social platform – post, like, comment, follow, profile editing, Firebase auth & storage.",
-    tech: ["React", "Firebase", "Material-UI"],
-    live: "https://instasclones.netlify.app/",
-    repo: "https://github.com/amitku26/InstaClone",
-    img: "/images/insta.png",
-  },
+  // {
+  //   title: "Instagram Clone",
+  //   desc: "Full-stack social platform – post, like, comment, follow, profile editing, Firebase auth & storage.",
+  //   tech: ["React", "Firebase", "Material-UI"],
+  //   live: "https://instasclones.netlify.app/",
+  //   repo: "https://github.com/amitku26/InstaClone",
+  //   img: "/images/insta.png",
+  // },
 ];
 
 export default function Projects() {
