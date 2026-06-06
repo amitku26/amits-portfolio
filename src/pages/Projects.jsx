@@ -110,6 +110,14 @@ const projects = [
     img: "/images/admin.png",
   },
   {
+    title: "Foodies Hub",
+    desc: "Foodies Hub is a modern and responsive web application for food enthusiasts.",
+    tech: ["React", "Tailwind CSS", "React Icons", "React DOM"],
+    live: "https://foodies-hub-cyan.vercel.app/",
+    repo: "https://github.com/amitku26/FoodiesHub",
+    img: "/images/foodies.png",
+  },
+  {
     title: "Instagram Clone",
     desc: "Full-stack social platform with posts, likes, comments, follows, profile editing, Firebase authentication, and storage.",
     tech: ["React", "Firebase", "Material UI"],
@@ -123,7 +131,7 @@ const projects = [
     tech: ["React", "Tailwind CSS", "TypeScript", "YouTube API"],
     live: "https://youtubeclonees.netlify.app/",
     repo: "https://github.com/amitku26/amityoutube",
-    img: "/images/youtube-2.png",
+    img: "/images/youtube (2).png",
   },
 ];
 
